@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>  <title>LiveChart.me - Recent Anime Episodes</title>
+  <link>https://www.livechart.me/schedule/all</link>
+  <lastBuildDate>Wed, 10 Mar 2021 16:47:00 +0000</lastBuildDate>
+  <webMaster>mike@livechart.me (Michael Millard)</webMaster>
+  <atom:link href="https://www.livechart.me/feeds/episodes" rel="self" type="application/rss+xml" />
+  <description>Feed of anime episodes that have aired in the last 24 hours</description>
+
+    <item>
+      <guid>https://www.livechart.me/anime/10216#episode82129:1615394820</guid>
+      <link>https://www.livechart.me/anime/10216</link>
+      <title>ABCiee Shuugyou Nikki #10</title>
+      <pubDate>Wed, 10 Mar 2021 16:47:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/10216/poster_image/2619981b64d43470095100188d35d560.png?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/10216/poster_image/2619981b64d43470095100188d35d560.png?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/9740#episode83300:1615391700</guid>
+      <link>https://www.livechart.me/anime/9740</link>
+      <title>Beastars 2nd Season #10</title>
+      <pubDate>Wed, 10 Mar 2021 15:55:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/9740/poster_image/5710fdb6740c93b2dcf9c631d1f8f361.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/9740/poster_image/5710fdb6740c93b2dcf9c631d1f8f361.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/9745#episode82258:1615390200</guid>
+      <link>https://www.livechart.me/anime/9745</link>
+      <title>Hortensia Saga #10</title>
+      <pubDate>Wed, 10 Mar 2021 15:30:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/9745/poster_image/0af693f9d0537545f32323c2bf4cd338.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/9745/poster_image/0af693f9d0537545f32323c2bf4cd338.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/2901#episode81790:1615388400</guid>
+      <link>https://www.livechart.me/anime/2901</link>
+      <title>Soukou Musume Senki #10</title>
+      <pubDate>Wed, 10 Mar 2021 15:00:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/2901/poster_image/f6a59910f84755ba916851977b4d9518.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/2901/poster_image/f6a59910f84755ba916851977b4d9518.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/9682#episode83506:1615386600</guid>
+      <link>https://www.livechart.me/anime/9682</link>
+      <title>Kaifuku Jutsushi no Yarinaoshi #9</title>
+      <pubDate>Wed, 10 Mar 2021 14:30:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/9682/poster_image/4ea8679463f976c5a4b06231e2599f78.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/9682/poster_image/4ea8679463f976c5a4b06231e2599f78.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/10183#episode86020:1615386540</guid>
+      <link>https://www.livechart.me/anime/10183</link>
+      <title>Kaoru no Taisetsu na Mono #17</title>
+      <pubDate>Wed, 10 Mar 2021 14:29:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/10183/poster_image/769bcbd388d497916289e3f491d14690.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/10183/poster_image/769bcbd388d497916289e3f491d14690.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/9414#episode82232:1615384800</guid>
+      <link>https://www.livechart.me/anime/9414</link>
+      <title>I★CHU #10</title>
+      <pubDate>Wed, 10 Mar 2021 14:00:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/9414/poster_image/027830c657539e1222c6c39711f5eaeb.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/9414/poster_image/027830c657539e1222c6c39711f5eaeb.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/10009#episode82754:1615383000</guid>
+      <link>https://www.livechart.me/anime/10009</link>
+      <title>Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2 #10</title>
+      <pubDate>Wed, 10 Mar 2021 13:30:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/10009/poster_image/e558bd8191c0f71c6270e3e872bfe90a.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/10009/poster_image/e558bd8191c0f71c6270e3e872bfe90a.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/9875#episode81121:1615377600</guid>
+      <link>https://www.livechart.me/anime/9875</link>
+      <title>Majutsushi Orphen Hagure Tabi: Kimluck-hen #8</title>
+      <pubDate>Wed, 10 Mar 2021 12:00:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/9875/poster_image/9555cb040ab56791a60c9e5264eefb54.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/9875/poster_image/9555cb040ab56791a60c9e5264eefb54.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/9776#episode79346:1615371900</guid>
+      <link>https://www.livechart.me/anime/9776</link>
+      <title>Log Horizon: Entaku Houkai #9</title>
+      <pubDate>Wed, 10 Mar 2021 10:25:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/9776/poster_image/f2605bac66afd36fed6252ab49562671.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/9776/poster_image/f2605bac66afd36fed6252ab49562671.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/9851#episode81767:1615366500</guid>
+      <link>https://www.livechart.me/anime/9851</link>
+      <title>Nanatsu no Taizai: Fundo no Shinpan #9</title>
+      <pubDate>Wed, 10 Mar 2021 08:55:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/9851/poster_image/28d83189866fa2bba70adbe2ff7b6c86.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/9851/poster_image/28d83189866fa2bba70adbe2ff7b6c86.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/10084#episode86561:1615363200</guid>
+      <link>https://www.livechart.me/anime/10084</link>
+      <title>Saikyo Kamizmode! #23</title>
+      <pubDate>Wed, 10 Mar 2021 08:00:00 +0000</pubDate>
+      <category>Anime/Television/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/10084/poster_image/d8f06d572f931161f3d3bc80faa17fc6.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/10084/poster_image/d8f06d572f931161f3d3bc80faa17fc6.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/10443#episode86663:1615348800</guid>
+      <link>https://www.livechart.me/anime/10443</link>
+      <title>Wan Jie Qi Yuan #11</title>
+      <pubDate>Wed, 10 Mar 2021 04:00:00 +0000</pubDate>
+      <category>Anime/OVAs/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/10443/poster_image/d578172a9070d0eece5f26f973695a0f.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/10443/poster_image/d578172a9070d0eece5f26f973695a0f.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/10460#episode86923:1615341600</guid>
+      <link>https://www.livechart.me/anime/10460</link>
+      <title>Shouxi Yu Ling Shi 2 #6</title>
+      <pubDate>Wed, 10 Mar 2021 02:00:00 +0000</pubDate>
+      <category>Anime/OVAs/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/10460/poster_image/36405b5c752e97ffd2dcce9623bffa13.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/10460/poster_image/36405b5c752e97ffd2dcce9623bffa13.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/10259#episode82592:1615341600</guid>
+      <link>https://www.livechart.me/anime/10259</link>
+      <title>Jue Shi Wu Hun #43</title>
+      <pubDate>Wed, 10 Mar 2021 02:00:00 +0000</pubDate>
+      <category>Anime/OVAs/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/10259/poster_image/7a36f74e10c6ed052c9be4eddec8ae19.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/10259/poster_image/7a36f74e10c6ed052c9be4eddec8ae19.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/10261#episode83561:1615341600</guid>
+      <link>https://www.livechart.me/anime/10261</link>
+      <title>Tian Huang Zhan Shen #36</title>
+      <pubDate>Wed, 10 Mar 2021 02:00:00 +0000</pubDate>
+      <category>Anime/OVAs/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/10261/poster_image/472970df3d33ea2a410e7f4737a7f69a.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/10261/poster_image/472970df3d33ea2a410e7f4737a7f69a.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+    <item>
+      <guid>https://www.livechart.me/anime/9984#episode85629:1615341600</guid>
+      <link>https://www.livechart.me/anime/9984</link>
+      <title>Yi Nian Yong Heng #33</title>
+      <pubDate>Wed, 10 Mar 2021 02:00:00 +0000</pubDate>
+      <category>Anime/OVAs/Episodes</category>
+
+      <enclosure url="https://u.livechart.me/anime/9984/poster_image/d7dc7663ebdfa1f9676a1f042cabd233.jpg?style=small&amp;format=jpg" length="0" type="image/jpeg" />
+      <media:thumbnail url="https://u.livechart.me/anime/9984/poster_image/d7dc7663ebdfa1f9676a1f042cabd233.jpg?style=small&amp;format=jpg" width="175" height="250" />
+    </item>
+</channel>
+</rss>
