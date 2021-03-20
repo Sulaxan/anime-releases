@@ -1,0 +1,31 @@
+version: "3.8"
+services:
+  # webhook
+  ar-webhook:
+    build:
+      context: .
+    image: ar-webhook
+    container_name: ar-webhook
+    environment:
+      # Below two are optional (should probably be in another [hidden] file)
+      # AR_REDIS_USERNAME: <user>
+      # AR_REDIS_PASSWORD: <pass>
+      AR_REDIS_HOST: "ar-redis"
+      AR_REDIS_PORT: 6379
+      AR_LIVECHART_URL: "https://www.livechart.me/feeds/episodes"
+      AR_WEBHOOK_URL: "https://discord.com/api/webhooks/819795945562046475/BtYm_ORYmJqCw7tvgL4TenvQW65vQmPq3Oabi_xcKMVOxHv3XcNEdkvUBKq-E-FbtEuV"
+    depends_on:
+      - ar-redis
+    labels:
+      - "anime-releases"
+      - "anime-releases.webhook"
+
+  # redis
+  ar-redis:
+    image: redis
+    container_name: ar-redis
+    labels:
+      - "anime-releases"
+      - "anime-releases.redis"
+
+

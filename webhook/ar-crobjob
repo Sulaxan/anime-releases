@@ -1,0 +1,1 @@
+*/5 * * * * python /anime-releases/webhook/main.py
