@@ -8,6 +8,7 @@ REDIS_SHOW_REPORTED = "reported"
 REDIS_SHOW_META_SUFFIX = "_meta"
 
 ONE_DAY_DURATION_SECONDS = 60 * 60 * 24
+DURATION_DELTA = 60 * 60  # 1 hour
 
 
 LIVECHART_URL = os.getenv("AR_LIVECHART_URL", default="https://www.livechart.me/feeds/episodes")

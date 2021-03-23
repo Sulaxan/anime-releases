@@ -133,8 +133,9 @@ class AnimeListServiceImpl(AnimeListService):
         return self.redis_client.exists(show.guid) > 0
 
     def set_reported_show(self, show: Show):
-        # ensure keys expire after a day (no need to keep them for longer)
-        self.redis_client.setex(show.guid, ONE_DAY_DURATION_SECONDS, REDIS_SHOW_REPORTED)
+        # ensure keys expire after a day (no need to keep them for longer) + add some minor delta just to be sure we
+        # don't double report broadcasted shows
+        self.redis_client.setex(show.guid, ONE_DAY_DURATION_SECONDS + DURATION_DELTA, REDIS_SHOW_REPORTED)
 
     def get_show_meta(self, show: Show, default=None) -> ShowMeta:
         json_meta = self.redis_client.get(f"{show.guid}{REDIS_SHOW_META_SUFFIX}")
