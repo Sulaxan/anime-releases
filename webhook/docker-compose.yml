@@ -20,3 +20,5 @@ services:
     labels:
       - "anime-releases"
       - "anime-releases.redis"
+    volumes:
+      - "/data/anime-releases/redis:/data"
