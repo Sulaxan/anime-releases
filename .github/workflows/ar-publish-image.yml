@@ -29,7 +29,7 @@ jobs:
       - name: GitHub Container Registry login
         uses: docker/login-action@v1
         with:
-          registry: docker.pkg.github.com
+          registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
@@ -40,7 +40,7 @@ jobs:
           context: ./webhook
           file: ./webhook/Dockerfile
           builder: ${{ steps.buildx.outputs.name }}
-          tags: docker.pkg.github.com/sulaxan/anime-releases:latest
+          tags: ghcr.io/sulaxan/anime-releases:latest
           push: true
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache
