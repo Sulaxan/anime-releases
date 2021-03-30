@@ -21,7 +21,7 @@ like to use. Redis host/port/password/etc., can be changed with environment vari
 [docker-compose.yml](webhook/docker-compose.yml), [ar.env](webhook/ar.env), and [ar-cronjob](webhook/ar-crobjob).
 
 ## Installing
-###Linux/macOS
+### Linux/macOS
 You can download the install script by running the following commands:
 ```shell
 curl -s -o anime-releases.sh \
