@@ -20,6 +20,21 @@ Technically, the Redis container is optional if you plan to host this yourself a
 like to use. Redis host/port/password/etc., can be changed with environment variables. See [Dockerfile](webhook/Dockerfile),
 [docker-compose.yml](webhook/docker-compose.yml), [ar.env](webhook/ar.env), and [ar-cronjob](webhook/ar-crobjob).
 
+## Installing
+###Linux/macOS
+You can download the install script by running the following commands:
+```shell
+curl -s -o anime-releases.sh \
+  https://raw.githubusercontent.com/Sulaxan/anime-releases/master/scripts/anime-releases.sh && \
+  chmod +x anime-releases.sh
+
+# installing
+./anime-releases.sh install
+
+# running
+./anime-releases.sh run 
+```
+
 ## Project Layout / Future
 The project, currently, is very simple, and only consists of a webhook. Not knowing where this project might go in the
 future, the webhook project is setup with setuptools and exists within its own package to more easily add other packages
