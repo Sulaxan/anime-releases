@@ -2,7 +2,9 @@ version: "3.8"
 services:
   # webhook
   ar-webhook:
-    image: ghcr.io/sulaxan/anime-releases:latest
+    build:
+      context: .
+    image: ar-webhook
     container_name: ar-webhook
     env_file: "ar.env"
     depends_on:
