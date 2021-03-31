@@ -34,7 +34,7 @@ function install() {
   curl -s -o docker-compose.yml \
     https://raw.githubusercontent.com/Sulaxan/anime-releases/master/webhook/docker-compose.yml
 
-  curl 'Done! Run the `install` (or `docker-compose up`) command to download the images and run the containers'
+  echo 'Done! Run the `install` (or `docker-compose up`) command to download the images and run the containers'
 }
 
 function fullInstall() {
