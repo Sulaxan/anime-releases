@@ -1,10 +1,14 @@
 # anime-releases
 Discord webhook for notifying new anime releases via livechart.me RSS feeds
 
+- [How it works](#how-it-works)
+- [Installing](#installing)
+- [Project Layout/Future](#project-layout--future)
+
 ## How it works
 The webhook does the following processes when it's run:
 - Fetch the latest RSS feed from livechart.me (currently does not include `If-Modified-Since` header to save 
-  bandwidth/run time -- maybe a future improvement!)
+  bandwidth/runtime -- maybe a future improvement!)
   - Convert XML to a list of `Show` objects
 - Filter the shows by ones that have not been notified yet (Redis caches the notified shows for 1 day + 1 hour)
 - Go through all the shows and push the notification via Discord webhooks (currently only supports 1 channel)
