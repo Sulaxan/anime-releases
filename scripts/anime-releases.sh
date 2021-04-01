@@ -37,8 +37,12 @@ function install() {
   echo "Downloading environment file..."
   curl -s -o ar.env \
     https://raw.githubusercontent.com/Sulaxan/anime-releases/master/webhook/ar.env
+  echo "######################################################"
+  echo "IMPORTANT! Before running, edit the ar.env file first!"
+  echo "######################################################"
+  sleep 2
 
-  echo 'Done! Run the `install` (or `docker-compose up`) command to download the images and run the containers'
+  echo 'Done! Run the `run` (or `docker-compose up`) command to download the images and run the containers'
 }
 
 function fullInstall() {
