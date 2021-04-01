@@ -42,7 +42,9 @@ jobs:
           context: ./webhook
           file: ./webhook/Dockerfile
           builder: ${{ steps.buildx.outputs.name }}
-          tags: ghcr.io/sulaxan/anime-releases:master-${{ github.run_number }}
+          tags: |
+            ghcr.io/sulaxan/anime-releases:master-${{ github.run_number }}
+            ghcr.io/sulaxan/anime-releases:latest
           push: true
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,dest=/tmp/.buildx-cache

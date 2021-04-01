@@ -28,4 +28,3 @@ anime_list_meta_service = AnimeListMetaServiceImpl()
 
 anime_list_embed_service = AnimeListEmbedServiceImpl()
 anime_list_discord_push_service = AnimeListDiscordPushServiceImpl()
-
