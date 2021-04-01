@@ -35,10 +35,7 @@ class AnimeListEmbedServiceImpl(AnimeListEmbedService):
                         f"\n\n"
                         f"Published Date: {show.pub_date}"
                         f"\n\n"
-                        f"[View on Livechart]({show.guid}) | [View General Info]({show.link})"
-                        f"\n\n"
-                        f"Description:"
-                        f"\nN/A",
+                        f"[View on Livechart]({show.guid}) | [View General Info]({show.link})",
             thumbnail=UrlImage(show.media_thumbnail),
             footer=Footer('Broadcast information provided by livechart.me.'),
             timestamp=f"{str(datetime.datetime.now())}"
