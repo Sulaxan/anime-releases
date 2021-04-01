@@ -5,6 +5,8 @@ on:
     branches:
       - master
       # support more branches in another file since there's master-specific logic in this workflow file
+    paths:
+      - webhook/**
 
 jobs:
   publish-image:
